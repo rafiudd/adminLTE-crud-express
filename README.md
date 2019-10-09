@@ -1,6 +1,5 @@
-# express-crud-mysql
-
 ## How to install
 
-### npm install
-### nodemon
+- clone this repository
+- npm install
+- nodemon
