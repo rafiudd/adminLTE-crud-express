@@ -1,6 +1,20 @@
-## How to install
+# Admin LTE CRUD Express
 
-- clone this repository
-- create table customer
-- npm install
-- nodemon
+
+## Installation
+
+
+
+```bash
+- Git clone https://github.com/rafiudd/express-crud-mysql
+
+- Create database customers on mysql
+
+- NPM install
+
+- Nodemon
+```
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
